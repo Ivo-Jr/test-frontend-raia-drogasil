@@ -1,4 +1,4 @@
-# Teste-frontend-raia-drogasil
+# Test-frontend-raia-drogasil
 
 This is a technical challenge for Frontend Developer. Some parts of this application's code were purposely subtracted. At these points, there will be an indication that something was there. Your task is to identify what is missing and complete the code to get the application back up and running.
 

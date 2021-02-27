@@ -9,9 +9,6 @@ No CSS Framework was used (Bootstrap, PureCss, etc.);
 
 ## How to use
 
-- Install dependencies, run
-$ yarn
-
 - Run the application in your browser
 
 
